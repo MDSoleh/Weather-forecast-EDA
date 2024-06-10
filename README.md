@@ -11,11 +11,11 @@ Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn (for preprocessing)
 IDE: Jupyter Notebook, PyCharm
 
 ## Key Responsibilities:
-Data Collection and Preparation
+### Data Collection and Preparation
 
-Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
-#### Reporting and Visualization:
+### Reporting and Visualization:
 
 *Temperature Trends Over Time*
 
