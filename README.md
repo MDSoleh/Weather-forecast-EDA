@@ -15,7 +15,7 @@ Data Collection and Preparation
 
 Exploratory Data Analysis (EDA)
 
-### Reporting and Visualization:
+#### Reporting and Visualization:
 
 *Temperature Trends Over Time*
 
