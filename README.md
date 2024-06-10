@@ -15,13 +15,14 @@ Data Collection and Preparation
 
 Exploratory Data Analysis (EDA)
 
-Reporting and Visualization:
-*Temperature Trends Over Time
+### Reporting and Visualization:
 
-Monthly Average Temperature
+*Temperature Trends Over Time*
 
-Precipitation Distribution
+*Monthly Average Temperature*
 
-Temperature and Precipitation Correlation
+*Precipitation Distribution*
 
-Heatmap of Correlations*
+*Temperature and Precipitation Correlation*
+
+*Heatmap of Correlations*
