@@ -17,7 +17,11 @@ Exploratory Data Analysis (EDA)
 
 Reporting and Visualization:
 *Temperature Trends Over Time
+
 Monthly Average Temperature
+
 Precipitation Distribution
+
 Temperature and Precipitation Correlation
+
 Heatmap of Correlations*
